@@ -1,21 +1,21 @@
 v#EXTM3U
-#EXTINF:-1,TV5 HD
+#EXTINF:-1,CptKG TV-5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:-1,One News
+#EXTINF:-1,CptKG One News
 https://bit.ly/3V39Bce
-#EXTINF:-1,SARI - SARI
+#EXTINF:-1,CptKG SARI - SARI
 https://tinyurl.com/5bcc4nrw
-#EXTINF:-1,Super Radyo DZBB
+#EXTINF:-1,CptKG Super Radyo DZBB
 https://tinyurl.com/RadyoDZBB
-#EXTINF:-1,DZRH News TV (1080p) [Not 24/7]
+#EXTINF:-1,CptKG DZRH News TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-#EXTINF:-1,ANC 
+#EXTINF:-1,CptKG ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
+#EXTINF:-1,CptKG Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1,Cinema One (1080p)
+#EXTINF:-1,CptKG Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1,MYX Philippines (720p)
+#EXTINF:-1,Cpt KGMYX Philippines (720p)
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
