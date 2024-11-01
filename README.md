@@ -4,7 +4,7 @@ _HELLOW_
 
 JUST A NEWBIE HEHE
 
-IPTV LINK:
+IPTV PHILIPPINE BASED:
 https://raw.githubusercontent.com/CaptKhert/cptkhert/refs/heads/main/captkhertiptv
 
-👨🏻‍✈️🛫
+Enjoy!!
