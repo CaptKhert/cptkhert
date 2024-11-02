@@ -1,0 +1,57 @@
+#EXTM3U
+
+# News
+#EXTINF:-1,[CptKG] TV-5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1,[CptKG] One News
+https://bit.ly/3V39Bce
+#EXTINF:-1,[CptKG] Super Radyo DZBB
+https://tinyurl.com/RadyoDZBB
+#EXTINF:-1,[CptKG] DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1,[CptKG] ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,[CptKG] Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1,[CptKG] BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,[CptKG] CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,[CptKG] France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+
+# Kids TV
+#EXTINF:-1,[CptKG] Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1,[CptKG] Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+# Movies
+#EXTINF:-1,[CptKG] Cinema One (1080p)
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,[CptKG] SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1,[CptKG] RAKUTEN TV ACTION MOVIES
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1,[CptKG] CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+# Sports
+#EXTINF:-1,[CptKG] Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+# Entertainment
+#EXTINF:-1,[CptKG] American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1,[CptKG] Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+# Documentaries
+#EXTINF:-1,[CptKG] CGTN Documentaries
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+# Miscellaneous
+#EXTINF:-1,[CptKG] Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1,[CptKG] NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
