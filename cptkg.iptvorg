@@ -93,3 +93,7 @@ https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[CptKG-🇵🇭]NHERS TELEVISION
 https://glb.bozztv.com/glb/ssh101/jomarhost/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[CptKG-🇵🇭]CNN
+http://fl2.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1,[CptKG-🇵🇭]BBC America
+http://fl2.moveonjoy.com/BBCAMERICA/index.m3u8
